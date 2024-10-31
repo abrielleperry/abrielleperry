@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abrielleperry22@icloud.com**
 
-- 📄 Know about my (experiences)[https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing](https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
