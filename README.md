@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abrielle Perry</h1>
 <h3 align="center">A passionate fullstack developer from Tulsa, Oklahoma</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrielleperry&label=Profile%20views&color=0e75b6&style=flat" alt="abrielleperry" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrielleperry" alt="abrielleperry" /></a> </p>
 
 - 🔭 I’m currently working on [backend web development](https://github.com/abrielleperry/atlas-web_back_end)
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **abrielleperry22@icloud.com**
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing](https://docs.google.com/document/d/1gO_k90ZnKiwA6i2zWuuZPbSSTWsWYLJ2w67N7hGqnto/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrielleperry&show_icons=true&locale=en&layout=compact" alt="abrielleperry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrielleperry&show_icons=true&locale=en" alt="abrielleperry" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrielleperry&" alt="abrielleperry" /></p>
 
