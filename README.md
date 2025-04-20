@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abrielleperry](https://github.com/abrielleperry)
 
-- 💬 Ask me about **jQuery and Bootstrap**
+- 💬 Ask me about **React and Next.js**
 
 - 📫 How to reach me **abrielleperry22@icloud.com**
 
