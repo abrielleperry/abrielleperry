@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abrielle Perry</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Tulsa, Oklahoma</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrielleperry" alt="abrielleperry" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrielleperry&title=-Stars,-Followers,-Reviews,-Issues,-Experience" alt="abrielleperry" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
